@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Habitica Questifier",
+  "version": "1.0.0",
+  "description": "Turn your tasks into RPG quests.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Habitica Questifier"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": []
+}
